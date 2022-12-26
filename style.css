@@ -1,0 +1,19 @@
+body {
+    background: #252526;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#title {
+    color: #ffffff;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-items: center;
+}
+#enterButton {
+    background-color: lightgreen;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+input {
+    align-items: center;
+}
